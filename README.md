@@ -1,5 +1,5 @@
 # PROGRAMMING PROJECT 1 
-CS111 – DESIGN ANALYSIS OF ALGORITHMS 
+CS111 – DESIGN ANALYSIS OF ALGORITHMS <br>
 2nd Year | 2nd Semester
 
 The program was in partial fulfillment for our project in CS111 - Design Analysis of Algorithms
